@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@font-face {
+    font-family: "Ticking Timebomb BB";
+    src: url("font/ticking-timebomb-bb/BB.ttf") format("TrueType");
+  }
+
+@font-face {
+    font-family: "Mate SC Regular";
+    src: url("font/Mate.ttf") format("TrueType");
+  }
+
